@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { ToastContainer, toast } from "react-toastify";
-import user from "./components/user";
+import User from "./components/User";
 
 const App = () => {
   
